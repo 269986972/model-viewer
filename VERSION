@@ -1,0 +1,71 @@
+commit 1b50e7e0e7108b6dab9575add35ea8d56edb5b32
+Author: sun765 <44676379+sun765@users.noreply.github.com>
+Date:   Tue Aug 11 19:08:51 2020 -0400
+
+    Auto fidelity test (#1431)
+    
+    * installed action/core
+    
+    * refactor and construct error message
+    
+    * architect set
+    
+    * making logging more robust and try catch more robust
+    
+    * added more logs
+    
+    * refactor try catch block, change length to correct one
+    
+    * working on local fidelity page
+    
+    * remove front end change
+    
+    * add comment
+    
+    * manually trigger workflow
+    
+    * try legacy build
+    
+    * refactor and error catch
+    
+    * add white check
+    
+    * add comment
+    
+    * fix error and comment
+    
+    * change building only related packages
+    
+    * remove checking white
+    
+    * refactor wired syntax and change failing logic
+    
+    * change error logic
+    
+    * change building orders
+    
+    * remove unnecessary space
+    
+    * remove comment
+    
+    * change time out
+    
+    * add raf
+    
+    * remove build legacy support
+    
+    * added legacy support back
+    
+    * change model-viewer's opacity to 0
+    
+    * makes timer longer
+    
+    * change opacity back to 1
+    
+    * changed fail to warning
+    
+    * change event
+    
+    * refactor
+    
+    * change setting skybox and environment
